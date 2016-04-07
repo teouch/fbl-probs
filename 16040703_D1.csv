@@ -1,19 +1,19 @@
 Game.id,Date,Home,Away,pct.bo.H,pct.mo.H,pct.bo.X2,pct.mo.X2,odd.bo.H,odd.mo.H,odd.bo.X2,odd.mo.X2,stake.H,stake.X2
-160407030000001,Saturday 9th April 2016,Hertha,Hannover,64.5,54.4,38,45.6,1.55,1.84,2.63,2.19,0,6.12
-160407030000002,Sunday 10th April 2016,Ein Frankfurt,Hoffenheim,40.8,44.1,61.7,55.9,2.45,2.27,1.62,1.79,2.74,0
-160407030000003,Sunday 10th April 2016,Hamburg,Darmstadt,47.6,43.8,55.6,56.2,2.1,2.28,1.8,1.78,0,0.76
-160407030000004,Sunday 10th April 2016,Ingolstadt,M'gladbach,31.2,27.9,73.5,72.1,3.2,3.59,1.36,1.39,0,0
-160407030000005,Sunday 10th April 2016,Stuttgart,Bayern Munich,15.4,19.8,87.7,80.2,6.5,5.04,1.14,1.25,2.63,0
-160407030000006,Sunday 10th April 2016,Werder Bremen,Augsburg,46.5,35.8,55.6,64.2,2.15,2.8,1.8,1.56,0,9.76
-160407030000007,Sunday 10th April 2016,Wolfsburg,Mainz,45.5,71.3,57.1,28.7,2.2,1.4,1.75,3.48,23.68,0
-160407030000008,Monday 11th April 2016,Schalke 04,Dortmund,22.2,31.2,80,68.8,4.5,3.2,1.25,1.45,5.78,0
-160407030000009,Monday 11th April 2016,FC Koln,Leverkusen,31.2,21.8,72.5,78.2,3.2,4.58,1.38,1.28,0,10.4
-160407030000010,Saturday 16th April 2016,Hannover,M'gladbach,19.6,23.4,84.7,76.6,5.1,4.28,1.18,1.3,2.33,0
-160407030000011,Sunday 17th April 2016,Augsburg,Stuttgart,40,41.7,62.5,58.3,2.5,2.4,1.6,1.71,1.4,0
-160407030000012,Sunday 17th April 2016,Leverkusen,Ein Frankfurt,69,68.6,35.7,31.4,1.45,1.46,2.8,3.18,0,0
-160407030000013,Sunday 17th April 2016,Darmstadt,Ingolstadt,38.5,32.5,65.4,67.5,2.6,3.07,1.53,1.48,0,3.04
-160407030000014,Sunday 17th April 2016,Hoffenheim,Hertha,38,40.3,66.7,59.7,2.63,2.48,1.5,1.67,1.83,0
-160407030000015,Sunday 17th April 2016,Werder Bremen,Wolfsburg,32.3,22.8,72.5,77.2,3.1,4.38,1.38,1.3,0,8.54
-160407030000016,Sunday 17th April 2016,Bayern Munich,Schalke 04,84.7,80.2,18.2,19.8,1.18,1.25,5.5,5.04,0,1.01
-160407030000017,Monday 18th April 2016,Dortmund,Hamburg,80,73.8,25,26.2,1.25,1.36,4,3.81,0,0.81
-160407030000018,Monday 18th April 2016,Mainz,FC Koln,45.5,48,57.1,52,2.2,2.08,1.75,1.92,2.3,0
+1604070301,Saturday 9th April 2016,Hertha,Hannover,64.5,54.4,38,45.6,1.55,1.84,2.63,2.19,0,6.12
+1604070302,Sunday 10th April 2016,Ein Frankfurt,Hoffenheim,40.8,44.1,61.7,55.9,2.45,2.27,1.62,1.79,2.74,0
+1604070303,Sunday 10th April 2016,Hamburg,Darmstadt,47.6,43.8,55.6,56.2,2.1,2.28,1.8,1.78,0,0.76
+1604070304,Sunday 10th April 2016,Ingolstadt,M'gladbach,31.2,27.9,73.5,72.1,3.2,3.59,1.36,1.39,0,0
+1604070305,Sunday 10th April 2016,Stuttgart,Bayern Munich,15.4,19.8,87.7,80.2,6.5,5.04,1.14,1.25,2.63,0
+1604070306,Sunday 10th April 2016,Werder Bremen,Augsburg,46.5,35.8,55.6,64.2,2.15,2.8,1.8,1.56,0,9.76
+1604070307,Sunday 10th April 2016,Wolfsburg,Mainz,45.5,71.3,57.1,28.7,2.2,1.4,1.75,3.48,23.68,0
+1604070308,Monday 11th April 2016,Schalke 04,Dortmund,22.2,31.2,80,68.8,4.5,3.2,1.25,1.45,5.78,0
+1604070309,Monday 11th April 2016,FC Koln,Leverkusen,31.2,21.8,72.5,78.2,3.2,4.58,1.38,1.28,0,10.4
+1604070310,Saturday 16th April 2016,Hannover,M'gladbach,19.6,23.4,84.7,76.6,5.1,4.28,1.18,1.3,2.33,0
+1604070311,Sunday 17th April 2016,Augsburg,Stuttgart,40,41.7,62.5,58.3,2.5,2.4,1.6,1.71,1.4,0
+1604070312,Sunday 17th April 2016,Leverkusen,Ein Frankfurt,69,68.6,35.7,31.4,1.45,1.46,2.8,3.18,0,0
+1604070313,Sunday 17th April 2016,Darmstadt,Ingolstadt,38.5,32.5,65.4,67.5,2.6,3.07,1.53,1.48,0,3.04
+1604070314,Sunday 17th April 2016,Hoffenheim,Hertha,38,40.3,66.7,59.7,2.63,2.48,1.5,1.67,1.83,0
+1604070315,Sunday 17th April 2016,Werder Bremen,Wolfsburg,32.3,22.8,72.5,77.2,3.1,4.38,1.38,1.3,0,8.54
+1604070316,Sunday 17th April 2016,Bayern Munich,Schalke 04,84.7,80.2,18.2,19.8,1.18,1.25,5.5,5.04,0,1.01
+1604070317,Monday 18th April 2016,Dortmund,Hamburg,80,73.8,25,26.2,1.25,1.36,4,3.81,0,0.81
+1604070318,Monday 18th April 2016,Mainz,FC Koln,45.5,48,57.1,52,2.2,2.08,1.75,1.92,2.3,0
