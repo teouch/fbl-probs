@@ -1,5 +1,5 @@
 # fbl-probs
-match probabilities for the big four European football leagues
+Probabilities for upcoming matches and performance to date for the big four European football leagues
 
 Column definition:
 
@@ -23,6 +23,10 @@ stake.H: unit stake for a home win
 
 stake.X2: unit stake for a draw/away
 
+PL: profit loss on that game
+
+CPL: cummulated profit loss
+
 Bookies odds are best market prices taken from oddschecker when the code is run
 
-for details on the model and unit staking please see: https://teouchanalytics.wordpress.com/
+for details on the model and unit staking system please see: https://teouchanalytics.wordpress.com/
