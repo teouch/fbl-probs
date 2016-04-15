@@ -1,21 +1,21 @@
-Game.id,Date,Home,Away,pct.bo.H,pct.mo.H,pct.bo.X2,pct.mo.X2,odd.bo.H,odd.mo.H,odd.bo.X2,odd.mo.X2,stake.H,stake.X2
-1604080201,Saturday 9th April 2016,Granada,Malaga,43.5,35.4,61.7,64.6,2.3,2.83,1.62,1.55,0,3.78
-1604080202,Sunday 10th April 2016,Real Madrid,Eibar,83.3,81.5,18.2,18.5,1.2,1.23,5.5,5.42,0,0.17
-1604080203,Sunday 10th April 2016,Espanol,Ath Madrid,23.5,24,80,76,4.25,4.16,1.25,1.32,0.33,0
-1604080204,Sunday 10th April 2016,Sociedad,Barcelona,15.4,18.7,87.7,81.3,6.5,5.34,1.14,1.23,1.97,0
-1604080205,Sunday 10th April 2016,Betis,Levante,48.8,43.5,54.9,56.5,2.05,2.3,1.82,1.77,0,1.74
-1604080206,Sunday 10th April 2016,Sp Gijon,Celta,32.3,38.5,71.9,61.5,3.1,2.6,1.39,1.63,4.63,0
-1604080207,Monday 11th April 2016,Valencia,Sevilla,41.7,41.7,62.5,58.3,2.4,2.4,1.6,1.71,0,0
-1604080208,Monday 11th April 2016,Villarreal,Getafe,65.8,59.5,38,40.5,1.52,1.68,2.63,2.47,0,1.99
-1604080209,Monday 11th April 2016,Ath Bilbao,Vallecano,62.5,55.6,38.5,44.4,1.6,1.8,2.6,2.25,0,4.85
-1604080210,Tuesday 12th April 2016,La Coruna,Las Palmas,46.5,51.2,55.6,48.8,2.15,1.95,1.8,2.05,4.35,0
-1604080211,Saturday 16th April 2016,Levante,Espanol,46.5,41.9,57.8,58.1,2.15,2.38,1.73,1.72,0,0.32
-1604080212,Sunday 17th April 2016,Getafe,Real Madrid,12.5,17.5,91.7,82.5,8,5.71,1.09,1.21,2.87,0
-1604080213,Sunday 17th April 2016,Las Palmas,Sp Gijon,52.6,48.5,50,51.5,1.9,2.06,2,1.94,0,1.48
-1604080214,Sunday 17th April 2016,Eibar,Sociedad,38.5,37.5,65.4,62.5,2.6,2.66,1.53,1.6,0,0
-1604080215,Sunday 17th April 2016,Celta,Betis,60.6,56.5,42,43.5,1.65,1.77,2.38,2.3,0,1.3
-1604080216,Sunday 17th April 2016,Malaga,Ath Bilbao,38.5,40.9,64.5,59.1,2.6,2.44,1.55,1.69,1.99,0
-1604080217,Monday 18th April 2016,Sevilla,La Coruna,66.7,60.4,38,39.6,1.5,1.66,2.63,2.52,0,1.28
-1604080218,Monday 18th April 2016,Ath Madrid,Granada,77.5,75.4,26.7,24.6,1.29,1.33,3.75,4.06,0,0
-1604080219,Monday 18th April 2016,Vallecano,Villarreal,34.5,43.6,69.4,56.4,2.9,2.29,1.44,1.77,6.94,0
-1604080220,Monday 18th April 2016,Barcelona,Valencia,88.5,76.8,15.4,23.2,1.13,1.3,6.5,4.31,0,4.61
+Game.id,Date,Home,Away,pct.bo.H,pct.mo.H,pct.bo.X2,pct.mo.X2,odd.bo.H,odd.mo.H,odd.bo.X2,odd.mo.X2,stake.H,stake.X2,ODD,STAKE,BET
+1604150201,Saturday 16th April 2016,Levante,Espanol,42,42.6,62.5,57.4,2.38,2.35,1.6,1.74,0.46,0,2.38,0.46,1
+1604150202,Sunday 17th April 2016,Getafe,Real Madrid,9.1,19.4,94.3,80.6,11,5.17,1.06,1.24,5.64,0,11,5.64,1
+1604150203,Sunday 17th April 2016,Las Palmas,Sp Gijon,51.3,52.7,54.1,47.3,1.95,1.9,1.85,2.11,1.43,0,1.95,1.43,1
+1604150204,Sunday 17th April 2016,Eibar,Sociedad,36.4,35.9,66.7,64.1,2.75,2.78,1.5,1.56,0,0,0,0,0
+1604150205,Sunday 17th April 2016,Celta,Betis,62.5,58.9,41.7,41.1,1.6,1.7,2.4,2.44,0,0,0,0,0
+1604150206,Sunday 17th April 2016,Malaga,Ath Bilbao,41.7,40.5,61.7,59.5,2.4,2.47,1.62,1.68,0,0,0,0,0
+1604150207,Monday 18th April 2016,Sevilla,La Coruna,66.7,60.8,38,39.2,1.5,1.64,2.63,2.55,0,0.93,2.63,0.93,X2
+1604150208,Monday 18th April 2016,Ath Madrid,Granada,80,76.7,23,23.3,1.25,1.3,4.35,4.29,0,0.19,4.35,0.19,X2
+1604150209,Monday 18th April 2016,Vallecano,Villarreal,37,43.1,67.6,56.9,2.7,2.32,1.48,1.76,4.81,0,2.7,4.81,1
+1604150210,Monday 18th April 2016,Barcelona,Valencia,88.5,72.5,15.4,27.5,1.13,1.38,6.5,3.63,0,7.18,6.5,7.18,X2
+1604150211,Wednesday 20th April 2016,Betis,Las Palmas,44.4,39.5,57.1,60.5,2.25,2.53,1.75,1.65,0,3.91,1.75,3.91,X2
+1604150212,Wednesday 20th April 2016,Espanol,Celta,37.7,38.4,66.7,61.6,2.65,2.6,1.5,1.62,0.54,0,2.65,0.54,1
+1604150213,Thursday 21st April 2016,Ath Bilbao,Ath Madrid,29,32.9,75.2,67.1,3.45,3.04,1.33,1.49,2.74,0,3.45,2.74,1
+1604150214,Thursday 21st April 2016,La Coruna,Barcelona,7.7,22.7,95.2,77.3,13,4.41,1.05,1.29,8.11,0,13,8.11,1
+1604150215,Thursday 21st April 2016,Sp Gijon,Sevilla,28.6,32.9,76.9,67.1,3.5,3.04,1.3,1.49,3.06,0,3.5,3.06,1
+1604150216,Thursday 21st April 2016,Malaga,Vallecano,54.6,51.7,50,48.3,1.83,1.93,2,2.07,0,0,0,0,0
+1604150217,Thursday 21st April 2016,Real Madrid,Villarreal,78.7,76.7,23.1,23.3,1.27,1.3,4.33,4.29,0,0.14,4.33,0.14,X2
+1604150218,Thursday 21st April 2016,Valencia,Eibar,54.1,55.8,47.6,44.2,1.85,1.79,2.1,2.26,1.86,0,1.85,1.86,1
+1604150219,Friday 22nd April 2016,Granada,Levante,52.6,38.4,48.8,61.6,1.9,2.6,2.05,1.62,0,12.5,2.05,10,X2
+1604150220,Friday 22nd April 2016,Sociedad,Getafe,62.5,49.4,38.5,50.6,1.6,2.02,2.6,1.98,0,9.88,2.6,9.88,X2
