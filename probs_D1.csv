@@ -1,19 +1,10 @@
-Date,Home,Away,pct.bo.H,pct.mo.H,pct.bo.X2,pct.mo.X2,odd.bo.H,odd.mo.H,odd.bo.X2,odd.mo.X2,stake.H,stake.X2,ODD,STAKE,BET
-Saturday 16th April 2016,Hannover,M'gladbach,18.2,20.2,85.5,79.8,5.5,4.95,1.17,1.25,1.23,0,5.5,1.23,1
-Saturday 16th April 2016,Augsburg,Stuttgart,40,45.4,63.7,54.6,2.5,2.2,1.57,1.83,4.48,0,2.5,4.48,1
-Saturday 16th April 2016,Leverkusen,Ein Frankfurt,71.4,68,31.2,32,1.4,1.47,3.2,3.13,0,0.53,3.2,0.53,X2
-Saturday 16th April 2016,Darmstadt,Ingolstadt,38.5,27.3,64.5,72.7,2.6,3.66,1.55,1.38,0,11.51,1.55,10,X2
-Saturday 16th April 2016,Hoffenheim,Hertha,40.8,43.9,62.5,56.1,2.45,2.28,1.6,1.78,2.61,0,2.45,2.61,1
-Saturday 16th April 2016,Werder Bremen,Wolfsburg,40,24.3,62.5,75.7,2.5,4.11,1.6,1.32,0,17.57,1.6,10,X2
-Sunday 17th April 2016,Bayern Munich,Schalke 04,84.7,81.5,20,18.5,1.18,1.23,5,5.39,0,0,0,0,0
-Sunday 17th April 2016,Dortmund,Hamburg,75.2,76.5,26.7,23.5,1.33,1.31,3.75,4.26,2.72,0,1.33,2.72,1
-Monday 18th April 2016,Mainz,FC Koln,46.5,45.9,57.1,54.1,2.15,2.18,1.75,1.85,0,0,0,0,0
-Saturday 23rd April 2016,Hamburg,Werder Bremen,44.4,36.8,58.8,63.2,2.25,2.72,1.7,1.58,0,5.37,1.7,5.37,X2
-Saturday 23rd April 2016,FC Koln,Darmstadt,51.3,52.2,54.1,47.8,1.95,1.91,1.85,2.09,0.98,0,1.95,0.98,1
-Saturday 23rd April 2016,Hertha,Bayern Munich,9.1,20,93.5,80,11,5.01,1.07,1.25,5.99,0,11,5.99,1
-Saturday 23rd April 2016,Ingolstadt,Hannover,57.1,49.7,44.4,50.3,1.75,2.01,2.25,1.99,0,5.29,2.25,5.29,X2
-Saturday 23rd April 2016,Stuttgart,Dortmund,17.4,24.6,85.5,75.4,5.75,4.06,1.17,1.33,4.39,0,5.75,4.39,1
-Saturday 23rd April 2016,Wolfsburg,Augsburg,54.1,59.4,48.8,40.6,1.85,1.68,2.05,2.46,5.77,0,1.85,5.77,1
-Sunday 24th April 2016,Schalke 04,Leverkusen,37,26.6,67.6,73.4,2.7,3.76,1.48,1.36,0,9,1.48,9,X2
-Sunday 24th April 2016,M'gladbach,Hoffenheim,60.6,61.4,43.5,38.6,1.65,1.63,2.3,2.59,1.03,0,1.65,1.03,1
-Monday 25th April 2016,Ein Frankfurt,Mainz,34.5,36.6,67.6,63.4,2.9,2.73,1.48,1.58,1.64,0,2.9,1.64,1
+Game.id,Date,Home,Away,pct.bo.H,pct.mo.H,pct.bo.X2,pct.mo.X2,odd.bo.H,odd.mo.H,odd.bo.X2,odd.mo.X2,stake.H,stake.X2,ODD,STAKE,BET
+1604190301,Saturday 23rd April 2016,Hamburg,Werder Bremen,40,40.1,62.5,59.9,2.5,2.49,1.6,1.67,0.1,0,2.5,0.1,1
+1604190302,Saturday 23rd April 2016,FC Koln,Darmstadt,51.3,45.9,52.4,54.1,1.95,2.18,1.91,1.85,0,1.85,1.91,1.85,X2
+1604190303,Saturday 23rd April 2016,Hertha,Bayern Munich,12.1,17.5,90.9,82.5,8.25,5.7,1.1,1.21,3.09,0,8.25,3.09,1
+1604190304,Saturday 23rd April 2016,Ingolstadt,Hannover,52.6,45.5,51.3,54.5,1.9,2.2,1.95,1.84,0,3.27,1.95,3.27,X2
+1604190305,Saturday 23rd April 2016,Stuttgart,Dortmund,20,25.3,84.7,74.7,5,3.95,1.18,1.34,3.31,0,5,3.31,1
+1604190306,Saturday 23rd April 2016,Wolfsburg,Augsburg,54.1,58.5,48.8,41.5,1.85,1.71,2.05,2.41,4.89,0,1.85,4.89,1
+1604190307,Sunday 24th April 2016,Schalke 04,Leverkusen,37,27.4,67.1,72.6,2.7,3.65,1.49,1.38,0,8.35,1.49,8.35,X2
+1604190308,Sunday 24th April 2016,M'gladbach,Hoffenheim,61.7,59.2,42.6,40.8,1.62,1.69,2.35,2.45,0,0,0,0,0
+1604190309,Monday 25th April 2016,Ein Frankfurt,Mainz,35.7,39.5,69.4,60.5,2.8,2.53,1.44,1.65,2.97,0,2.8,2.97,1
