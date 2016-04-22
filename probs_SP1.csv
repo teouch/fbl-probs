@@ -1,11 +1,11 @@
 Game.id,Date,Home,Away,pct.bo.H,pct.mo.H,pct.bo.X2,pct.mo.X2,odd.bo.H,odd.mo.H,odd.bo.X2,odd.mo.X2,stake.H,stake.X2,ODD,STAKE,BET
-1604190201,Wednesday 20th April 2016,Espanol,Celta,38.5,36.7,64.9,63.3,2.6,2.72,1.54,1.58,0,0,0,0,0
-1604190202,Wednesday 20th April 2016,Betis,Las Palmas,46.5,40.9,56.5,59.1,2.15,2.45,1.77,1.69,0,3.03,1.77,3.03,X2
-1604190203,Thursday 21st April 2016,Ath Bilbao,Ath Madrid,25,32.3,77.5,67.7,4,3.1,1.29,1.48,4.84,0,4,4.84,1
-1604190204,Thursday 21st April 2016,La Coruna,Barcelona,7.1,22.7,95.2,77.3,14,4.41,1.05,1.29,8.38,0,14,8.38,1
-1604190205,Thursday 21st April 2016,Sp Gijon,Sevilla,31.2,35.6,72.5,64.4,3.2,2.81,1.38,1.55,3.14,0,3.2,3.14,1
-1604190206,Thursday 21st April 2016,Malaga,Vallecano,51.3,44.8,51.3,55.2,1.95,2.23,1.95,1.81,0,4.01,1.95,4.01,X2
-1604190207,Thursday 21st April 2016,Real Madrid,Villarreal,82,80.1,22.2,19.9,1.22,1.25,4.5,5.02,0,0,0,0,0
-1604190208,Thursday 21st April 2016,Valencia,Eibar,60.2,57.8,43.1,42.2,1.66,1.73,2.32,2.37,0,0,0,0,0
-1604190209,Friday 22nd April 2016,Granada,Levante,50,41.2,51.8,58.8,2,2.43,1.93,1.7,0,7.28,1.93,7.28,X2
-1604190210,Friday 22nd April 2016,Sociedad,Getafe,64.5,52.3,38,47.7,1.55,1.91,2.63,2.1,0,7.79,2.63,7.79,X2
+1604220201,Saturday 23rd April 2016,Las Palmas,Espanol,43.5,42.7,59.9,57.3,2.3,2.34,1.67,1.74,0,0,0,0,0
+1604220202,Sunday 24th April 2016,Vallecano,Real Madrid,10,17.8,93.5,82.2,10,5.62,1.07,1.22,4.33,0,10,4.33,1
+1604220203,Sunday 24th April 2016,Ath Madrid,Malaga,74.1,75.9,26.7,24.1,1.35,1.32,3.75,4.15,3.56,0,1.35,3.56,1
+1604220204,Sunday 24th April 2016,Barcelona,Sp Gijon,94.3,77.7,6.7,22.3,1.06,1.29,15,4.49,0,8.35,15,8.35,X2
+1604220205,Sunday 24th April 2016,Eibar,La Coruna,44.4,43.8,59.9,56.2,2.25,2.28,1.67,1.78,0,0,0,0,0
+1604220206,Sunday 24th April 2016,Levante,Ath Bilbao,29.4,34.1,74.6,65.9,3.4,2.93,1.34,1.52,3.34,0,3.4,3.34,1
+1604220207,Monday 25th April 2016,Sevilla,Betis,66.7,57.3,38,42.7,1.5,1.74,2.63,2.34,0,3.77,2.63,3.77,X2
+1604220208,Monday 25th April 2016,Getafe,Valencia,31.2,39.5,73.5,60.5,3.2,2.53,1.36,1.65,6,0,3.2,6,1
+1604220209,Monday 25th April 2016,Villarreal,Sociedad,54.1,52.1,48.1,47.9,1.85,1.92,2.08,2.09,0,0,0,0,0
+1604220210,Tuesday 26th April 2016,Celta,Granada,64.5,51.6,38.5,48.4,1.55,1.94,2.6,2.07,0,8.05,2.6,8.05,X2

@@ -1,25 +1,18 @@
 Game.id,Date,Home,Away,pct.bo.H,pct.mo.H,pct.bo.X2,pct.mo.X2,odd.bo.H,odd.mo.H,odd.bo.X2,odd.mo.X2,stake.H,stake.X2,ODD,STAKE,BET
-1604190101,Wednesday 20th April 2016,Newcastle,Man City,16.3,20.2,86.2,79.8,6.15,4.96,1.16,1.25,2.33,0,6.15,2.33,1
-1604190102,Thursday 21st April 2016,West Ham,Watford,64.5,62.9,38.5,37.1,1.55,1.59,2.6,2.7,0,0,0,0,0
-1604190103,Thursday 21st April 2016,Liverpool,Everton,57.8,63.2,43.9,36.8,1.73,1.58,2.28,2.72,6.44,0,1.73,6.44,1
-1604190104,Thursday 21st April 2016,Man United,Crystal Palace,63.7,56.9,37.7,43.1,1.57,1.76,2.65,2.32,0,4.27,2.65,4.27,X2
-1604190105,Friday 22nd April 2016,Arsenal,West Brom,77.5,77.5,23.3,22.5,1.29,1.29,4.3,4.44,0,0,0,0,0
-1604190106,Saturday 23rd April 2016,Man City,Stoke,73.5,75.2,28.6,24.8,1.36,1.33,3.5,4.03,3.09,0,1.36,3.09,1
-1604190107,Sunday 24th April 2016,Aston Villa,Southampton,14.8,18.8,87.7,81.2,6.75,5.32,1.14,1.23,2.35,0,6.75,2.35,1
-1604190108,Sunday 24th April 2016,Bournemouth,Chelsea,32.3,25.3,72.5,74.7,3.1,3.96,1.38,1.34,0,4.11,1.38,4.11,X2
-1604190109,Sunday 24th April 2016,Liverpool,Newcastle,66.7,74.7,37,25.3,1.5,1.34,2.7,3.95,12,0,1.5,10,1
-1604190110,Sunday 24th April 2016,Norwich,Watford,47.6,43.8,59.9,56.2,2.1,2.28,1.67,1.78,0,0,0,0,0
-1604190111,Sunday 24th April 2016,West Ham,Man United,36.4,36.9,71.4,63.1,2.75,2.71,1.4,1.58,0.42,0,2.75,0.42,1
-1604190112,Sunday 24th April 2016,Sunderland,Arsenal,20,18.3,83.3,81.7,5,5.47,1.2,1.22,0,0,0,0,0
-1604190113,Monday 25th April 2016,Leicester,Swansea,55.6,44.2,46.5,55.8,1.8,2.26,2.15,1.79,0,8.64,2.15,8.64,X2
-1604190114,Tuesday 26th April 2016,Tottenham,West Brom,80,77.6,22.2,22.4,1.25,1.29,4.5,4.46,0,0.14,4.5,0.14,X2
-1604190115,Saturday 30th April 2016,Swansea,Liverpool,29.4,20.9,80,79.1,3.4,4.78,1.25,1.26,0,0,0,0,0
-1604190116,Sunday 1st May 2016,Everton,Bournemouth,55.6,49.6,54.6,50.4,1.8,2.02,1.83,1.98,0,0,0,0,0
-1604190117,Sunday 1st May 2016,Newcastle,Crystal Palace,45.5,40.6,63.7,59.4,2.2,2.46,1.57,1.68,0,0,0,0,0
-1604190118,Sunday 1st May 2016,Stoke,Sunderland,47.6,50.6,59.9,49.4,2.1,1.97,1.67,2.03,2.88,0,2.1,2.88,1
-1604190119,Sunday 1st May 2016,Watford,Aston Villa,59.9,43.4,45.5,56.6,1.67,2.31,2.2,1.77,0,10.25,2.2,10,X2
-1604190120,Sunday 1st May 2016,West Brom,West Ham,37.7,25.1,71.4,74.9,2.65,3.98,1.4,1.34,0,6.04,1.4,6.04,X2
-1604190121,Sunday 1st May 2016,Arsenal,Norwich,75.2,76,29.4,24,1.33,1.31,3.4,4.17,1.73,0,1.33,1.73,1
-1604190122,Sunday 1st May 2016,Man United,Leicester,46.5,42.8,59.9,57.2,2.15,2.34,1.67,1.75,0,0,0,0,0
-1604190123,Monday 2nd May 2016,Southampton,Man City,31.2,28.3,76.9,71.7,3.2,3.53,1.3,1.4,0,0,0,0,0
-1604190124,Tuesday 3rd May 2016,Chelsea,Tottenham,35.1,31.4,69,68.6,2.85,3.19,1.45,1.46,0,0,0,0,0
+1604220101,Saturday 23rd April 2016,Man City,Stoke,75.2,77.6,27.4,22.4,1.33,1.29,3.65,4.47,4.88,0,1.33,4.88,1
+1604220102,Sunday 24th April 2016,Aston Villa,Southampton,13.3,16.9,90.1,83.1,7.5,5.92,1.11,1.2,2.05,0,7.5,2.05,1
+1604220103,Sunday 24th April 2016,Bournemouth,Chelsea,31.2,21,71.9,79,3.2,4.77,1.39,1.27,0,12.61,1.39,10,X2
+1604220104,Sunday 24th April 2016,Liverpool,Newcastle,62.1,79.7,40.3,20.3,1.61,1.25,2.48,4.93,23.24,0,1.61,10,1
+1604220105,Sunday 24th April 2016,Sunderland,Arsenal,20.6,16.5,83.3,83.5,4.85,6.05,1.2,1.2,0,0.43,1.2,0.43,X2
+1604220106,Monday 25th April 2016,Leicester,Swansea,57.1,40.9,45.9,59.1,1.75,2.45,2.18,1.69,0,12.26,2.18,10,X2
+1604220107,Tuesday 26th April 2016,Tottenham,West Brom,80,81.9,22.2,18.1,1.25,1.22,4.5,5.54,4.83,0,1.25,4.83,1
+1604220108,Saturday 30th April 2016,Swansea,Liverpool,28.6,19,80,81,3.5,5.27,1.25,1.23,0,2.53,1.25,2.53,X2
+1604220109,Sunday 1st May 2016,Everton,Bournemouth,55.6,51,52.4,49,1.8,1.96,1.91,2.04,0,0,0,0,0
+1604220110,Sunday 1st May 2016,Newcastle,Crystal Palace,47.6,41.6,59.9,58.4,2.1,2.4,1.67,1.71,0,0,0,0,0
+1604220111,Sunday 1st May 2016,Stoke,Sunderland,47.6,47.8,59.9,52.2,2.1,2.09,1.67,1.91,0.14,0,2.1,0.14,1
+1604220112,Sunday 1st May 2016,Watford,Aston Villa,59.9,44.1,45.5,55.9,1.67,2.27,2.2,1.79,0,9.62,2.2,9.62,X2
+1604220113,Sunday 1st May 2016,West Brom,West Ham,37.7,22,71.4,78,2.65,4.54,1.4,1.28,0,11.47,1.4,10,X2
+1604220114,Sunday 1st May 2016,Arsenal,Norwich,75.2,77.4,28.6,22.6,1.33,1.29,3.5,4.43,4.52,0,1.33,4.52,1
+1604220115,Sunday 1st May 2016,Man United,Leicester,47.6,50.2,59.9,49.8,2.1,1.99,1.67,2.01,2.43,0,2.1,2.43,1
+1604220116,Monday 2nd May 2016,Southampton,Man City,30.8,25.4,76.9,74.6,3.25,3.93,1.3,1.34,0,0,0,0,0
+1604220117,Tuesday 3rd May 2016,Chelsea,Tottenham,33.3,28.6,75.2,71.4,3,3.5,1.33,1.4,0,0,0,0,0
